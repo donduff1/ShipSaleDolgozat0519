@@ -1,0 +1,45 @@
+/*Decker Borisz, 2023.05.19*/
+
+body{
+    background-color:rgba(0, 0, 0, 0.778) !important;
+    color: lightgrey !important;
+}
+h1{
+    background-color:rgb(93, 93, 93);
+}
+h3{
+    background-color: rgba(72, 72, 72, 0.487);
+}
+span{
+    font-weight: lighter;
+    font-size: medium;
+}
+.text-end{
+    font-weight: bold;
+}
+img{
+    height: 300px;
+}
+.nevjegy {
+    position: fixed;
+    top: 25px;
+    right: -235px;
+    transform: rotate(45deg);
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    width: 580px;
+    text-align: center;
+  }
+
+  .nevjegy h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .nevjegy p {
+    margin: 0;
+  }
